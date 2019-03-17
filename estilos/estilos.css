@@ -6,13 +6,20 @@
     margin-bottom: 0;
     z-index: 997;
 }
-.tam_div{
+.row{
+	margin-bottom: 0;
+}
+.div_lft{
+	width: 60%;
+}
+.full_wdt{
 	width: 100%;
-	height:100%;
+}
+.full_hgt{
+	height: 100%;
 }
 .margin_a{
 	margin: 3%
-
 }
 body{
 	background-attachment: fixed;
@@ -21,7 +28,5 @@ body{
 	height: 100%;
 	}
 form{
-	background: rgba(255,255,255, 0.9);
-	height: 100%
-	width: 60%;
-}
+	background: rgba(255,255,255,0.9);
+	}
